@@ -62,7 +62,7 @@ A notary is a person authorised to perform acts in legal affairs, in particular 
 
 Documents are notarized to deter fraud and to ensure they are properly executed. An impartial witness (the notary) identifies signers and makes sure they have entered into agreements knowingly and willingly. Loan documents including deeds, affidavits, contracts, powers of attorney are very common documents needing notarization.
 
-![](doc/img/notary.png)
+![](img/notary.png)
 
 # Fractal Design
 
@@ -70,7 +70,7 @@ Fractals exhibit similar patterns at increasingly small scales called self simil
 
 A Fractal is a geometrical figure, each part of which has the same statistical character as the whole. They are useful in modelling structures (such as snowflakes) in which similar patterns recur at progressively smaller scales, and in describing partly random or chaotic phenomena such as crystal growth and galaxy formation.
 
-![](doc/img/fractal1.png)
+![](img/fractal1.png)
 
 
 # 3X Model
@@ -83,7 +83,7 @@ As an idea/product/company grows, value-maximizing behavior changes dramatically
 * **Expand** — to overcome bottlenecks to scaling, ease the limitations of the next rate-limiting resource.
 * **Extract** — to sustain growth, continually increase profitability while you finish growing.
 
-![](doc/img/3x.png)
+![](img/3x.png)
 
 
 # Code Classifications

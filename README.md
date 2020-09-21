@@ -4,8 +4,7 @@
 
 # Humand Cells - an inspiration
 
-![](img/realcell1.png)
-![](img/realcell2.png)
+![](img/realcell.png)
 
 
 ## Gate

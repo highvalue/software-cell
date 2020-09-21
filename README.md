@@ -61,7 +61,7 @@ A notary is a person authorised to perform acts in legal affairs, in particular 
 
 Documents are notarized to deter fraud and to ensure they are properly executed. An impartial witness (the notary) identifies signers and makes sure they have entered into agreements knowingly and willingly. Loan documents including deeds, affidavits, contracts, powers of attorney are very common documents needing notarization.
 
-![](img/notary.png)
+![](img/notary2.png)
 
 # Fractal Design
 

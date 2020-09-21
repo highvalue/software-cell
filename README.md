@@ -85,7 +85,7 @@ As an idea/product/company grows, value-maximizing behavior changes dramatically
 ![](img/3x.png)
 
 
-# Code Classifications
+# Software Blood Types
 
 * A: business code
 * B: technology code
@@ -110,6 +110,7 @@ As an idea/product/company grows, value-maximizing behavior changes dramatically
 * completly neutral, no cross-dependencies to other projects
 * can be easily included and is ready to be used without much configuration
 
+![](img/bloodtypes.png)
 
 
 # Testing is a first class citizen
